@@ -1,0 +1,11 @@
+OpenAction
+AA
+JavaScript
+JS
+GoTo
+Launch
+URI
+SubmitForm
+GoToR
+RichMedia
+ObjStm
